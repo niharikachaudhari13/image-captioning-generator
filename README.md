@@ -26,6 +26,6 @@ This project generates captions for images using a deep learning model built wit
 
 ---
 
-First run main.py,train the model,epochs can be changed according to need.
+First download Flickr8k dataset then run main.py,train the model,epochs can be changed according to need.
 then run test.py,and app.py to run it locally using streamlit.
 
