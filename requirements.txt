@@ -1,0 +1,10 @@
+altair
+pandas
+streamlit
+streamlit
+tensorflow
+keras
+Pillow
+numpy
+gTTS
+googletrans==4.0.0-rc1
